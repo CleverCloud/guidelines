@@ -6,7 +6,7 @@ Please use `#!/usr/bin/env bash` instead of directly linking bash.
 
 ## Unofficial strict mode
 
-Add this just after the shebang.
+Add this right after the shebang.
 
 ```sh
 set -euo pipefail
