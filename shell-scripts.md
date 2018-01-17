@@ -18,7 +18,6 @@ set -euo pipefail
 
 See <http://redsymbol.net/articles/unofficial-bash-strict-mode/> for more information.
 
-
 ## Linting
 
 Use shellcheck (either locally or online with <https://www.shellcheck.net/>).
